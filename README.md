@@ -10,6 +10,8 @@
 
 ![Mkyoung24's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkyoung24&show_icons=true&theme=transparent)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiyoung710)](https://solved.ac/kiyoung710/)
+
 <!--
 **mkyoung24/mkyoung24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
