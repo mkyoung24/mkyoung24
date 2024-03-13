@@ -9,7 +9,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/Amazon EC2-FF9900?&style=for-the-badge&logo=Amazon EC2&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon EC2-FF9900?&style=for-the-badge&logo=Amazon EC2&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white)
