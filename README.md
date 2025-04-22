@@ -1,6 +1,6 @@
 # MOON KI YOUNG👋
 
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Welcome~)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome~~)
 
 # 💪Skills
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
