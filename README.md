@@ -11,8 +11,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white)
 
-![Mkyoung24's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkyoung24&show_icons=true&theme=transparent)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kiyoung710)](https://solved.ac/kiyoung710/)
 
 <!--
